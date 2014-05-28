@@ -1,0 +1,2 @@
+Basic hash table implementation with cuckoo hashing, with the various hash functions courtesy of Donald Knuth, Bob Jenkins, and Thomas Wang.
+Dictionary comes with insert(), remove(), isEmpty(), and find()
